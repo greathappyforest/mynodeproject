@@ -1,0 +1,8 @@
+<svg width="340" height="90" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+
+  <rect stroke="#000" rx="15" id="svg_1" height="85.999998" width="321.999996" y="2.499999" x="2.999992" stroke-width="1.5" fill="#865403"/>
+  <rect stroke="#000" rx="15" id="svg_3" height="69.999995" width="302.000008" y="9.000001" x="9.5" stroke-opacity="null" stroke-width="1.5" fill="#000000"/>
+  <text stroke="#000" transform="matrix(0.908048277957505,0,0,1,2.639932039116502,0) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="50" id="svg_5" y="56" x="21.101263" stroke-opacity="null" stroke-width="0" fill="#ffffff">Reset Game</text>
+</svg>

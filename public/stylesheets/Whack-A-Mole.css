@@ -1,0 +1,250 @@
+html {
+    background: url(../res/bg-grass.svg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#gamepad1 {
+    height: 13vh;
+    width: 45vw;
+    margin-left: 30%;
+    margin-top: 10%;
+    z-index: 0;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#gamepad2 {
+    width: 45vw;
+    margin-left: 29.5%;
+    z-index: 1;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#timebar {
+    height: auto;
+    width: 18vw;
+    margin-bottom: 2vh;
+    background-image: url(../res/timebar.svg);
+    background-repeat: no-repeat;
+    font-family: cursive, sans-serif;
+    font-size: 4vw;
+    color: beige;
+    text-align: center;
+    float: left;
+    z-index: 1;
+    border: 2% solid;
+    border-radius: 10%;
+    position: relative;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#score {
+    height: auto;
+    width: 19vw;
+    margin-left: 4vw;
+    margin-bottom: 7vh;
+    background-image: url(../res/score.svg);
+    background-repeat: no-repeat;
+    font-family: cursive, sans-serif;
+    font-size: 4vw;
+    color: beige;
+    text-align: left;
+    float: left;
+    z-index: -1;
+    border: 2% solid;
+    border-radius: 10%;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.hole {
+    margin-right: 5%;
+    background-image: url(../res/hole.svg);
+    background-repeat: no-repeat;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse1 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse2 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse3 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse4 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse5 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse6 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse7 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse8 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse9 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse10 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse11 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse12 {
+    margin-right: 5%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse13 {
+    margin-right: 5%;
+    margin-top: 3%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse14 {
+    margin-right: 5%;
+    margin-top: 3%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse15 {
+    margin-right: 5%;
+    margin-top: 3%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#mouse16 {
+    margin-right: 5%;
+    margin-top: 3%;
+    visibility: hidden;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+#container {
+    height: 70vh;
+    width: 18vw;
+    margin-left: 75vw;
+    margin-top: -70vh;
+}
+
+#Start {
+    margin-top: 10vh;
+}
+
+#Reset {
+    margin-top: 10vh;
+}
+
+#Over {
+    visibility: hidden;
+}

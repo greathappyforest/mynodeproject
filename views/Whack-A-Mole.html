@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>
+        Whack-A-Mole
+    </title>
+
+    <meta name="viewpoint" content="width=device-width, initial-scale=1, user-scalalbe=yes">
+    <meta name="author" content="Yule Lin">
+
+
+    <link href="../css/Whack-A-Mole.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+
+
+<body>
+
+    <div id="gamepad1">
+        <div id="timebar">
+            Time:60
+
+        </div>
+        <div id="score">
+            Score:0
+        </div>
+
+
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+        <img src="../res/hole.svg" class="hole">
+    </div>
+
+    <div id="gamepad2">
+        <img src="../res/mouse.png" id="mouse1" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse2" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse3" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse4" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse5" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse6" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse7" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse8" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse9" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse10" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse11" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse12" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse13" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse14" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse15" onclick=AddScore()>
+        <img src="../res/mouse.png" id="mouse16" onclick=AddScore()>
+
+
+
+    </div>
+
+
+
+
+
+
+
+    <div id="container">
+        <div id="Over">
+            <img src="../res/Game_Over.svg">
+        </div>
+        <div id="Start">
+            <img src="../res/Start_Game.svg" id="count" onclick="start()">
+        </div>
+
+        <div id="Reset">
+            <img src="../res/Reset_Game.svg" onclick="Reset()">
+        </div>
+
+    </div>
+
+
+
+
+    <script src=../js/Whack-A-Mole.js></script>
+    <!--    <script src="../js/jquery-3.2.1.min.js"></script>-->
+
+</body>
+
+<foot>
+
+
+</foot>
+
+
+</html>

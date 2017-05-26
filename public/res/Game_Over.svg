@@ -1,0 +1,6 @@
+<svg width="340" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#865403" stroke-width="1.5" x="2.999992" y="2.499999" width="321.999996" height="85.999998" id="svg_1" rx="15" stroke="#000"/>
+  <rect fill="#000000" stroke-width="1.5" stroke-opacity="null" x="9.5" y="9.000001" width="302.000008" height="69.999995" id="svg_3" rx="15" stroke="#000"/>
+  <text fill="#ffffff" stroke-width="0" stroke-opacity="null" x="39.822735" y="56" id="svg_5" font-size="50" font-family="'Courier New', Courier, monospace" text-anchor="start" xml:space="preserve" transform="matrix(0.908048277957505,0,0,1,2.639932039116502,0) " stroke="#000">Game Over</text>
+</svg>
+
